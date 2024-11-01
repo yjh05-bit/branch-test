@@ -2,10 +2,4 @@ hofirst edition
 second edition
 third edition 
 issue resolved
-<<<<<<< HEAD
-
-=======
->>>>>>> testing
-
-
-first edition
+Hotfix team's solution
